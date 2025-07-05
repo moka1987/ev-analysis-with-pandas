@@ -1,0 +1,12 @@
+Top 10 EV Makers:
+Make
+TESLA        9725
+CHEVROLET    1470
+NISSAN       1447
+BMW          1071
+KIA          1054
+FORD          964
+TOYOTA        937
+HYUNDAI       762
+VOLVO         624
+RIVIAN        593
